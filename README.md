@@ -1,2 +1,3 @@
 # TryHackMe
-[This repo is for my journey in TryHackMe.](https://tryhackme.com/r/p/PKMFord)
+This [link](https://tryhackme.com/r/p/PKMFord) is my account.
+I'll start from the bottom up to how far I can go.
