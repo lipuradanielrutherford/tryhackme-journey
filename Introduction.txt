@@ -1,0 +1,24 @@
+This is my first activity in TryHackMe.
+It has instructions to hack a website.
+It also introduced me to GoBuster.
+As per ChatGPT, GoBuster is a tool used in penetration testing and cybersecurity assessments for brute-forcing web directories, files, and DNS subdomains.
+It works by sending numerous HTTP requests based on a wordlist to identify hidden or restricted resources on a web server.
+This helps in uncovering sensitive files, directories, or subdomains that may be vulnerable to exploitation.
+GoBuster is fast and efficient, written in Go language, and is commonly included in tools like Kali Linux.
+It’s particularly useful during reconnaissance phases of penetration testing.
+The command used in CLI is "gobuster -u http://fakebank.thm -w wordlist.txt dir".
+I was able to perform a brute-attack to the website.
+
+Then I was introduced to Security Operations Center (SOC), Digital Forensics and Incident Response (DRFI), Threat Intelligence, and Malware Analysis.
+I was introduced to a SIEM tool where it has a notification on a failed login attempt.
+Along the way with the activity, the IP address was the crucial information for checking its safeteness.
+It was added to a list of blocked IP addresses since the tool confirmed that it's malicious.
+
+I was also introduced with the roles in the cybersecurity field.
+I am interested with the Security Analyst, Incident Responder and Malware Analyst roles.
+
+I did the TryHackMe cyber careers quiz and found that I would make a good Incident Responder! I'm taking the right path in becoming a Chaos Control Specialist. Nice.
+I took three learning pathways. These are:
+Pre Security: https://tryhackme.com/r/path/outline/presecurity
+SOC Level 1: https://tryhackme.com/r/path/outline/soclevel1
+Jr Penetration Tester: https://tryhackme.com/r/path/outline/jrpenetrationtester 
